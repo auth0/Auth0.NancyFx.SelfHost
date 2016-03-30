@@ -19,7 +19,7 @@
 <div id="root" style="width: 400px; margin: 40px auto; padding: 10px; border-style: dashed; border-width: 1px;">
     embeded area
 </div>
-<script src="https://cdn.auth0.com/js/lock-8.2.min.js"></script>
+<script src="https://cdn.auth0.com/js/lock-9.0.min.js"></script>
 <script>
   var lock = new Auth0Lock('YOUR-CLIENTID','YOUR_DOMAIN');
 
